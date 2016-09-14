@@ -1,0 +1,25 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/Ninuce/conFusion",
+  "authors": [
+    "Lota Plezere <lota.plezere@gmail.com>"
+  ],
+  "description": "Website resto",
+  "main": "index.html",
+  "keywords": [
+    "web",
+    "learning"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
